@@ -1,0 +1,16 @@
+.muestra{
+    display: flex;
+}
+
+.imagen{
+    width: 60%;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.texto{
+    padding: 5px 8px;
+    text-align: left;
+}
