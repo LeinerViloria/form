@@ -1,4 +1,4 @@
-var btn = document.getElementById("btn");
+let btn = document.getElementById("btn");
 
 const hola = () => {
     alert("Hola");
